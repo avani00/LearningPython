@@ -15,4 +15,4 @@ while True:
 		time.sleep(1)
 sys.stdout.write('\a')
 sys.stdout.flush()
-os.system('say "rjgaierfjlzsdkvjlaiorjjaiurwjkgaksdjpaoirjaw"')
+os.system('say "TIMEISIMSISSD UPPPP !!!!"')
